@@ -56,7 +56,7 @@ resize_video("input.mp4", "output_resized.mp4", (1280, 720))
 ## 🔧 How It Works  
 1. **Resizes both videos** to match the target resolution.  
 2. **Extracts the last frame of the first video & the first frame of the second video**.  
-3. **Uses FILM** to generate smooth frame transitions.  
+3. **Uses FILM** to generate smooth frame transitions.  (external : https://colab.research.google.com/github/pytti-tools/frame-interpolation/blob/main/PyTTI_Tools_FiLM-colab.ipynb#scrollTo=HBMnARHIuGiq)
 4. **Concatenates the videos** with seamless blending.  
 5. **Saves the final output** as `merged_output.mp4`.  
 
