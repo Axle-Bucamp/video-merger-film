@@ -1,12 +1,3 @@
-Here's a **README.md** for your module that merges two videos using **FILM (Frame Interpolation for Large Motion)** from Google Research. 🚀  
-
-Let me know if you'd like any modifications!  
-
----
-
-### **📜 README.md**  
-
-```md
 # 🎥 Video Merger with FILM (Google Research)  
 
 This module merges two videos using **FILM (Frame Interpolation for Large Motion)** by Google Research.  
